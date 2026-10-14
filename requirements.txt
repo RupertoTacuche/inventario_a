@@ -1,0 +1,3 @@
+flet==0.86.5
+flet-web==0.86.5
+openpyxl>=3.1
